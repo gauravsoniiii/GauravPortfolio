@@ -260,9 +260,9 @@ nav .fa-solid{
         background: rgb(60, 147, 240);
         position: fixed;
         top: 0;
-        right: -300px;
+        right: -200px;
         height: 50vh;
-        width: 300px;
+        width: 200px;
         padding-top: 50px;
         z-index: 2;
         transition: right 0.5s;
